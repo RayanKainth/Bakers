@@ -27,7 +27,7 @@ const Home = () => {
           <div class="max-w-[320px] sm:max-w-[640] sm:text-3xl text-[24px] pt-[30px] pb-[50px] md:max-w-[50%] md:pb-[80px] lg:max-w-[50%]">
             <p>
               Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-              Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+              Lorem Ipsum is simply dummy text of the printing and typesetting industry...
             </p>
           </div>
           <button className="rounded-[20px] bg-[#A7731A] text-white px-6 py-2">View Menu</button>
